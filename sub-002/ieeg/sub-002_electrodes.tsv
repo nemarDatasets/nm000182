@@ -1,0 +1,9 @@
+name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
+ATD_1	n/a	n/a	n/a	1.0	ATD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Hippocampus
+ATD_2	n/a	n/a	n/a	1.0	ATD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Hippocampus
+ATD_3	n/a	n/a	n/a	1.0	ATD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Hippocampus
+ATD_4	n/a	n/a	n/a	1.0	ATD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Hippocampus
+PTD_1	n/a	n/a	n/a	1.0	PTD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Hippocampus
+PTD_2	n/a	n/a	n/a	1.0	PTD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Hippocampus
+PTD_3	n/a	n/a	n/a	1.0	PTD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Hippocampus
+PTD_4	n/a	n/a	n/a	1.0	PTD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Amygdala

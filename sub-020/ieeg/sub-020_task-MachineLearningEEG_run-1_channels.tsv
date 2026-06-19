@@ -1,0 +1,9 @@
+name	type	units	low_cutoff	high_cutoff	reference	sampling_frequency	description
+LAD_1	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LAD_2	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LAD_3	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LAD_4	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LPD_1	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LPD_2	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LPD_3	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+LPD_4	SEEG	uV	0.1	1000	n/a	5000	nonsoz

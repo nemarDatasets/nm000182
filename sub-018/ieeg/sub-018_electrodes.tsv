@@ -1,0 +1,17 @@
+name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
+LMacro_01	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	ctx-lh-insula
+LMacro_02	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Amygdala
+LMacro_03	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Cerebral-White-Matter
+LMacro_04	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Cerebral-White-Matter
+LMacro_05	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+LMacro_06	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+LMacro_07	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+LMacro_08	n/a	n/a	n/a	1.0	LMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+RMacro_01	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Cerebral-White-Matter
+RMacro_02	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Putamen
+RMacro_03	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Cerebral-White-Matter
+RMacro_04	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Cerebral-White-Matter
+RMacro_05	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Cerebral-White-Matter
+RMacro_06	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Cerebral-White-Matter
+RMacro_07	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Cerebral-White-Matter
+RMacro_08	n/a	n/a	n/a	1.0	RMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	ctx-rh-inferiorparietal

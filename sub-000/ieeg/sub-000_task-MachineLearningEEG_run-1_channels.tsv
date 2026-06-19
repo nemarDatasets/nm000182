@@ -1,0 +1,9 @@
+name	type	units	low_cutoff	high_cutoff	reference	sampling_frequency	description
+LMacro_01	SEEG	uV	0.1	1000	n/a	5000	soz
+LMacro_05	SEEG	uV	0.1	1000	n/a	5000	soz
+LMacro_07	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+RMacro_04	SEEG	uV	0.1	1000	n/a	5000	soz
+RMacro_05	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+RMacro_06	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+RMacro_07	SEEG	uV	0.1	1000	n/a	5000	nonsoz
+RMacro_08	SEEG	uV	0.1	1000	n/a	5000	nonsoz

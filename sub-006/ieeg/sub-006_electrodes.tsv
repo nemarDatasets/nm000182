@@ -1,0 +1,9 @@
+name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
+RAD_1	n/a	n/a	n/a	1.0	RAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Amygdala
+RAD_2	n/a	n/a	n/a	1.0	RAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Amygdala
+RAD_3	n/a	n/a	n/a	1.0	RAD	Platinum/Iridium	AD-Tech Medical / PMT	0	ctx-rh-temporalpole
+RAD_4	n/a	n/a	n/a	1.0	RAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RPD_1	n/a	n/a	n/a	1.0	RPD	Platinum/Iridium	AD-Tech Medical / PMT	1	Unknown
+RPD_2	n/a	n/a	n/a	1.0	RPD	Platinum/Iridium	AD-Tech Medical / PMT	1	Right-Hippocampus
+RPD_3	n/a	n/a	n/a	1.0	RPD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Amygdala
+RPD_4	n/a	n/a	n/a	1.0	RPD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter

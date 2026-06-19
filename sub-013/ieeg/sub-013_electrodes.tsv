@@ -1,0 +1,6 @@
+name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
+LAD_1	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+LAD_2	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Pallidum
+LAD_3	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Putamen
+LAD_4	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Putamen
+RPD_4	n/a	n/a	n/a	1.0	RPD	Platinum/Iridium	AD-Tech Medical / PMT	0	ctx-lh-insula

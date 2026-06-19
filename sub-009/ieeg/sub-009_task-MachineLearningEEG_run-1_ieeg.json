@@ -1,0 +1,39 @@
+{
+  "TaskName": "MachineLearningEEG",
+  "InstitutionName": "Mayo Clinic, Rochester MN, USA",
+  "InstitutionAddress": "Mayo Clinic, Rochester, MN, USA",
+  "Manufacturer": "Neuralynx",
+  "ManufacturersModelName": "Cheetah",
+  "TaskDescription": "Resting interictal iEEG used to build a labelled graphoelement dataset (physiology / pathology / artifact / powerline). ~2 h interictal recording, first night post-implant (01:00-03:00).",
+  "iEEGReference": "Referential montage; per-channel reference not individually specified (see channels.tsv).",
+  "SamplingFrequency": 5000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "DCOffsetCorrection": "n/a",
+  "HardwareFilters": {
+    "HighpassFilter": {
+      "CutoffFrequencyHz": 0.1
+    },
+    "AntiAliasingFilter": {
+      "CutoffFrequencyHz": 1000
+    },
+    "AcquisitionBandwidth": {
+      "HighpassHz": 0,
+      "LowpassHz": 9000
+    }
+  },
+  "ElectrodeManufacturer": "PMT",
+  "ECOGChannelCount": 0,
+  "SEEGChannelCount": 4,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 0,
+  "RecordingType": "continuous",
+  "iEEGGround": "scalp Fcz",
+  "iEEGPlacementScheme": "n/a",
+  "ElectricalStimulation": false
+}

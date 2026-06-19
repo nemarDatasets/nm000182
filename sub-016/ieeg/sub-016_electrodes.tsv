@@ -1,0 +1,13 @@
+name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
+ADMacro_01	n/a	n/a	n/a	1.0	ADMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Unknown
+ADMacro_02	n/a	n/a	n/a	1.0	ADMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Hippocampus
+ADMacro_03	n/a	n/a	n/a	1.0	ADMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Amygdala
+ADMacro_04	n/a	n/a	n/a	1.0	ADMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Amygdala
+PDMacro_01	n/a	n/a	n/a	1.0	PDMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Thalamus-Proper
+PDMacro_02	n/a	n/a	n/a	1.0	PDMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Cerebral-White-Matter
+PDMacro_03	n/a	n/a	n/a	1.0	PDMacro	Platinum/Iridium	AD-Tech Medical / PMT	1	Left-Cerebral-White-Matter
+PDMacro_04	n/a	n/a	n/a	1.0	PDMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Putamen
+STSMacro_01	n/a	n/a	n/a	1.0	STSMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	lingual
+STSMacro_02	n/a	n/a	n/a	1.0	STSMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	isthmuscingulate
+STSMacro_03	n/a	n/a	n/a	1.0	STSMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	isthmuscingulate
+STSMacro_04	n/a	n/a	n/a	1.0	STSMacro	Platinum/Iridium	AD-Tech Medical / PMT	0	precuneus

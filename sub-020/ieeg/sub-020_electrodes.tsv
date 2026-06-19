@@ -1,0 +1,9 @@
+name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
+LAD_1	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Unknown
+LAD_2	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	ctx-lh-lateralorbitofrontal
+LAD_3	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+LAD_4	n/a	n/a	n/a	1.0	LAD	Platinum/Iridium	AD-Tech Medical / PMT	0	ctx-lh-lateralorbitofrontal
+LPD_1	n/a	n/a	n/a	1.0	LPD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Hippocampus
+LPD_2	n/a	n/a	n/a	1.0	LPD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Hippocampus
+LPD_3	n/a	n/a	n/a	1.0	LPD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
+LPD_4	n/a	n/a	n/a	1.0	LPD	Platinum/Iridium	AD-Tech Medical / PMT	0	Left-Cerebral-White-Matter
