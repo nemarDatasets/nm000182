@@ -1,0 +1,92 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Petr Nejedly": {
+      "orcid": "0000-0002-5382-2134"
+    },
+    "Vaclav Kremen": {
+      "orcid": "0000-0001-9844-7617"
+    },
+    "Vladimir Sladky": {},
+    "Jan Cimbalnik": {},
+    "Petr Klimes": {},
+    "Filip Plesinger": {},
+    "Filip Mivalt": {},
+    "Vojtech Travnicek": {},
+    "Ivo Viscor": {},
+    "Martin Pail": {},
+    "Josef Halamek": {
+      "orcid": "0000-0001-8986-796X"
+    },
+    "Benjamin Brinkmann": {},
+    "Milan Brazdil": {},
+    "Pavel Jurak": {},
+    "Gregory Worrell": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-020-0532-5",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.6084/m9.figshare.12192405",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000182",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000182",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (MAYO)",
+  "license": "CC0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "6.8 GB (289 files)"
+  ],
+  "formats": [
+    ".json",
+    ".rdat",
+    ".ridx",
+    ".tdat",
+    ".tidx",
+    ".tmet",
+    ".tsv"
+  ],
+  "description": "A multicenter intracranial EEG dataset from Mayo Clinic containing approximately 2 hours of interictal recordings from epilepsy patients with implanted depth and grid/strip electrodes. The dataset includes annotations for seizure onset zone classification and artifactual signal detection, with standardized BIDS formatting and enriched metadata including electrode localization information and anatomical labels.",
+  "methods_description": "Intracranial EEG recordings acquired using Neuralynx Cheetah system at 32 kHz and downsampled to 5 kHz with 60 Hz power line frequency. Recordings were obtained during the first night post-implant (01:00-03:00) from patients with depth and grid/strip electrodes (AD-Tech/PMT, Platinum/Iridium; 2.3 mm contact length, 1 mm diameter, 5/10 mm spacing). Ground electrode placed at scalp Fcz.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "epilepsy"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
+      "term": "artifact detection"
+    },
+    {
+      "term": "depth electrodes"
+    },
+    {
+      "term": "signal classification"
+    }
+  ],
+  "source_hash": "aad6d3fc83c4e8cacf4c25cda1d9f2eb2c52e7ad547cf871cc49e756ce6591a4"
+}
