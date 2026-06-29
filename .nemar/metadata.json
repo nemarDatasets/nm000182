@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (MAYO)",
-  "description": "A multicenter intracranial electroencephalography (iEEG) dataset acquired from epilepsy patients at Mayo Clinic for classification of graphoelements and artifactual signals. The dataset comprises approximately 2 hours of interictal recordings from the first night post-implant, acquired using Neuralynx Cheetah systems and downsampled to 5 kHz. This BIDS-formatted release includes standardized metadata, electrode localization information, and seizure onset zone annotations to support machine learning and signal processing research in epilepsy.",
-  "methods_description": "Intracranial recordings were acquired using Neuralynx Cheetah systems at 32 kHz and downsampled to 5 kHz with 60 Hz power line frequency. Depth and grid/strip electrodes (AD-Tech/PMT, Platinum/Iridium) with 5/10 mm spacing were implanted. Approximately 2 hours of interictal recordings were collected during the first night post-implant (01:00-03:00). Ground electrode was placed at scalp Fcz.",
+  "description": "A multicenter intracranial EEG (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes 10,000+ clips from multiple subjects with preserved clinical metadata including seizure onset zone (SOZ) flags, electrode anatomy, and reviewer annotations. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
+  "methods_description": "The dataset consists of independent 3-second single-channel iEEG clips sampled at 5000 Hz, extracted from clinical recordings at Mayo Clinic. Clips are concatenated per subject and electrode contact, with event markers preserving original labels, segment identifiers, anatomical locations, reviewer information, SOZ status, and electrode type. Patient-specific electrode coordinates were not released; electrode metadata includes contact names, material, and manufacturer information.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -34,19 +34,19 @@
       "term": "intracranial EEG"
     },
     {
+      "term": "seizure detection"
+    },
+    {
+      "term": "artifact classification"
+    },
+    {
       "term": "epilepsy"
     },
     {
-      "term": "seizure onset zone"
+      "term": "signal processing"
     },
     {
-      "term": "artifact detection"
-    },
-    {
-      "term": "signal classification"
-    },
-    {
-      "term": "depth electrodes"
+      "term": "neural recordings"
     }
   ],
   "related_identifiers": [
@@ -61,14 +61,14 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000182",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
       "identifier": "10.6084/m9.figshare.12192405",
       "identifier_type": "DOI",
       "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000182",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "resource_type_general": "Dataset",
@@ -77,18 +77,16 @@
     "ieeg"
   ],
   "sizes": [
-    "6.8 GB (289 files)"
+    "16.2 GB (818 files)"
   ],
   "formats": [
+    ".eeg",
     ".json",
     ".md",
-    ".rdat",
-    ".ridx",
-    ".tdat",
-    ".tidx",
-    ".tmet",
     ".tsv",
+    ".vhdr",
+    ".vmrk",
     ".yml"
   ],
-  "source_hash": "c0c747d68560c51d8a3021991f5bc9ab5feaf4433d58c44625989cef0882c1c2"
+  "source_hash": "34006a843530c96a06849604ee4eb9981e16a8838be6a9ffb354d26b786f1597"
 }
