@@ -1,13 +1,13 @@
 name	x	y	z	size	group	material	manufacturer	seizure_onset_zone	anatomical_label
-RD1_1	n/a	n/a	n/a	1.0	RD1_1	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Hippocampus
-RD1_2	n/a	n/a	n/a	1.0	RD1_2	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Hippocampus
-RD1_3	n/a	n/a	n/a	1.0	RD1_3	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD1_4	n/a	n/a	n/a	1.0	RD1_4	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD2_1	n/a	n/a	n/a	1.0	RD2_1	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD2_2	n/a	n/a	n/a	1.0	RD2_2	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD2_3	n/a	n/a	n/a	1.0	RD2_3	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD2_4	n/a	n/a	n/a	1.0	RD2_4	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD3_1	n/a	n/a	n/a	1.0	RD3_1	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD3_2	n/a	n/a	n/a	1.0	RD3_2	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD3_3	n/a	n/a	n/a	1.0	RD3_3	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
-RD3_4	n/a	n/a	n/a	1.0	RD3_4	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD1_1	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Hippocampus
+RD1_2	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Hippocampus
+RD1_3	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD1_4	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD2_1	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD2_2	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD2_3	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD2_4	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD3_1	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD3_2	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD3_3	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter
+RD3_4	n/a	n/a	n/a	1.0	RD	Platinum/Iridium	AD-Tech Medical / PMT	0	Right-Cerebral-White-Matter

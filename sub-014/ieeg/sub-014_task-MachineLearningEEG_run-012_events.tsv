@@ -1,0 +1,9 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	x109300	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+3.0	3.0	pathology	15000	x109301	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+6.0	3.0	pathology	30000	x109302	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+9.0	3.0	pathology	45000	x109303	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+12.0	3.0	pathology	60000	x109304	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+15.0	3.0	pathology	75000	x109305	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+18.0	3.0	pathology	90000	x109306	RMacro_04	2	3	ctx-rh-bankssts	0	depth
+21.0	3.0	pathology	105000	x109307	RMacro_04	2	3	ctx-rh-bankssts	0	depth

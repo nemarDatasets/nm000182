@@ -1,0 +1,6 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	x012179	RHIPO1_3	2	3	n/a	0	depth
+3.0	3.0	pathology	15000	x012180	RHIPO1_3	2	1	n/a	0	depth
+6.0	3.0	pathology	30000	x012181	RHIPO1_3	2	3	n/a	0	depth
+9.0	3.0	pathology	45000	x012182	RHIPO1_3	2	3	n/a	0	depth
+12.0	3.0	pathology	60000	x012183	RHIPO1_3	2	3	n/a	0	depth

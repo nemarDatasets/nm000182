@@ -1,9 +1,0 @@
-name	type	units	low_cutoff	high_cutoff	reference	sampling_frequency	description
-ATD_1	SEEG	uV	0.1	1000	n/a	5000	soz
-ATD_2	SEEG	uV	0.1	1000	n/a	5000	soz
-ATD_3	SEEG	uV	0.1	1000	n/a	5000	soz
-ATD_4	SEEG	uV	0.1	1000	n/a	5000	nonsoz
-PTD_1	SEEG	uV	0.1	1000	n/a	5000	soz
-PTD_2	SEEG	uV	0.1	1000	n/a	5000	soz
-PTD_3	SEEG	uV	0.1	1000	n/a	5000	nonsoz
-PTD_4	SEEG	uV	0.1	1000	n/a	5000	soz

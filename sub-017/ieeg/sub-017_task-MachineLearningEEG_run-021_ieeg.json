@@ -1,0 +1,38 @@
+{
+  "TaskName": "MachineLearningEEG",
+  "TaskDescription": "Classification of independent 3 s iEEG graphoelement clips.",
+  "InstitutionName": "Mayo Clinic, Rochester MN, USA",
+  "InstitutionAddress": "Mayo Clinic, Rochester, MN, USA",
+  "Manufacturer": "Neuralynx",
+  "ManufacturersModelName": "Cheetah",
+  "SamplingFrequency": 5000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": {
+    "HighpassFilter": {
+      "CutoffFrequencyHz": 0.1
+    },
+    "AntiAliasingFilter": {
+      "CutoffFrequencyHz": 1000
+    },
+    "AcquisitionBandwidth": {
+      "HighpassHz": 0,
+      "LowpassHz": 9000
+    }
+  },
+  "RecordingDuration": 993.0,
+  "RecordingType": "epoched",
+  "iEEGReference": "Referential montage; per-contact reference not specified.",
+  "iEEGGround": "scalp Fcz",
+  "iEEGPlacementScheme": "n/a",
+  "ElectrodeManufacturer": "AD-Tech Medical / PMT",
+  "ElectricalStimulation": false,
+  "ECOGChannelCount": 0,
+  "SEEGChannelCount": 1,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0
+}
