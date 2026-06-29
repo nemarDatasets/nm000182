@@ -1,0 +1,4 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	x109318	RMacro_08	2	3	Unknown	0	depth
+3.0	3.0	pathology	15000	x109319	RMacro_08	2	3	Unknown	0	depth
+6.0	3.0	pathology	30000	x109320	RMacro_08	2	3	Unknown	0	depth

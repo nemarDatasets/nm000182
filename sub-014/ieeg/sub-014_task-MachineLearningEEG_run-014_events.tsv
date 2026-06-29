@@ -1,0 +1,6 @@
+onset	duration	trial_type	sample	segment_id	source_channel	category_id	reviewer_id	anatomy	soz	electrode_type
+0.0	3.0	pathology	0	x109313	RMacro_07	2	3	ctx-rh-inferiorparietal	0	depth
+3.0	3.0	pathology	15000	x109314	RMacro_07	2	3	ctx-rh-inferiorparietal	0	depth
+6.0	3.0	pathology	30000	x109315	RMacro_07	2	3	ctx-rh-inferiorparietal	0	depth
+9.0	3.0	pathology	45000	x109316	RMacro_07	2	3	ctx-rh-inferiorparietal	0	depth
+12.0	3.0	pathology	60000	x109317	RMacro_07	2	3	ctx-rh-inferiorparietal	0	depth
