@@ -3,7 +3,7 @@
   "pipeline_stage": "validated",
   "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (MAYO)",
   "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes 10,000+ clips from multiple subjects with preserved clinical metadata including seizure onset zone (SOZ) flags, electrode anatomy, and reviewer annotations. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
-  "methods_description": "iEEG data were recorded from epilepsy patients using stereotactic electroencephalography (SEEG) contacts. The source data consist of independent 3-second single-channel clips that were segmented and archived in .mat format. Data were resampled to 5000 Hz and converted to BIDS format using BrainVision iEEG conversion. Patient-specific electrode coordinates were not released; electrode metadata includes contact names, material, and manufacturer information.",
+  "methods_description": "iEEG data were recorded from epilepsy patients using subdural and depth electrodes. The dataset consists of independent 3-second single-channel clips sampled at 5000 Hz, extracted from clinical recordings and segmented into archives. Each clip is annotated with electrode contact information, anatomical location, reviewer identification, SOZ status, and electrode type. Data were converted to BIDS format from segmented .mat archives while preserving original recording parameters and clinical annotations.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -31,27 +31,25 @@
   },
   "keywords": [
     {
-      "term": "intracranial electroencephalography"
+      "term": "intracranial EEG"
     },
     {
-      "term": "iEEG"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "seizure onset zone"
-    },
-    {
-      "term": "artifact detection"
+      "term": "epilepsy"
     },
     {
       "term": "signal classification"
     },
     {
+      "term": "artifact detection"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
       "term": "graphoelements"
+    },
+    {
+      "term": "clinical neurophysiology"
     }
   ],
   "related_identifiers": [
