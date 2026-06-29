@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (MAYO)",
-  "description": "A multicenter intracranial EEG (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes 10,000+ clips from multiple subjects with preserved clinical metadata including seizure onset zone (SOZ) flags, electrode anatomy, and reviewer annotations. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
-  "methods_description": "The dataset consists of independent 3-second single-channel iEEG clips sampled at 5000 Hz, extracted from clinical recordings at Mayo Clinic. Clips are concatenated per subject and electrode contact, with event markers preserving original labels, segment identifiers, anatomical locations, reviewer information, SOZ status, and electrode type. Patient-specific electrode coordinates were not released; electrode metadata includes contact names, material, and manufacturer information.",
+  "description": "A multicenter intracranial electroencephalography (iEEG) dataset comprising segmented 3-second single-channel clips from epilepsy patients, annotated for graphoelement classification and artifact detection. The dataset includes 10,000+ clips from multiple subjects with preserved clinical metadata including seizure onset zone (SOZ) flags, electrode anatomy, and reviewer annotations. This resource supports the development and validation of automated signal processing algorithms for clinical neurophysiology applications.",
+  "methods_description": "iEEG data were recorded from epilepsy patients using stereotactic electroencephalography (SEEG) contacts. The source data consist of independent 3-second single-channel clips that were segmented and archived in .mat format. Data were resampled to 5000 Hz and converted to BIDS format using BrainVision iEEG conversion. Patient-specific electrode coordinates were not released; electrode metadata includes contact names, material, and manufacturer information.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -31,22 +31,27 @@
   },
   "keywords": [
     {
-      "term": "intracranial EEG"
+      "term": "intracranial electroencephalography"
     },
     {
-      "term": "seizure detection"
+      "term": "iEEG"
     },
     {
-      "term": "artifact classification"
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "epilepsy"
+      "term": "seizure onset zone"
     },
     {
-      "term": "signal processing"
+      "term": "artifact detection"
     },
     {
-      "term": "neural recordings"
+      "term": "signal classification"
+    },
+    {
+      "term": "graphoelements"
     }
   ],
   "related_identifiers": [
@@ -88,5 +93,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "34006a843530c96a06849604ee4eb9981e16a8838be6a9ffb354d26b786f1597"
+  "source_hash": "3edd3738605c8ed0ad3fe9d1af0711c9b018974c5ec0e9417d3d6045853aa3e9"
 }
