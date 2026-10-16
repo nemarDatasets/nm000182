@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Multicenter iEEG dataset for classification of graphoelements and artifactual signals (MAYO)",
-  "description": "A multicenter intracranial EEG (iEEG) dataset of independent 3 s single-channel clips from stereo-EEG contacts, annotated for classification of physiological and pathological graphoelements and artifactual signals. This BIDS conversion of the Mayo portion of the Nejedly et al. 2020 release concatenates clips per subject and contact at 5000 Hz, with events preserving labels, anatomy, reviewer ID, seizure onset zone flag, and electrode type.",
-  "methods_description": "Segmented .mat clip archives were converted to BrainVision iEEG BIDS. Each run contains clips from one subject and one SEEG contact concatenated at 5000 Hz, with events marking 3 s clip boundaries. Patient-specific electrode coordinates were not released, so electrode x/y/z are n/a.",
+  "title": "Nejedly-2020a-multicenter-10.1038/s41597-020-0532-5",
+  "description": "This dataset provides intracranial EEG (SEEG) clips from a multicenter collection, converted to BIDS from the segmented .mat archives released with Nejedly et al. 2020. It consists of independent 3 s single-channel clips sampled at 5000 Hz, annotated for graphoelements and artifactual signals. Per-clip events preserve the original label, anatomy, reviewer ID, seizure onset zone flag, and electrode type.",
+  "methods_description": "Independent 3 s single-channel iEEG clips from one subject and one SEEG contact were concatenated into each BIDS run at 5000 Hz. Events mark clip boundaries. Patient-specific electrode coordinates were not released, so electrodes.tsv lists contact names, material, and manufacturer with x/y/z as n/a. Runs are not time-contiguous recordings across clip boundaries.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -31,24 +31,24 @@
   },
   "keywords": [
     {
-      "term": "iEEG"
+      "term": "intracranial EEG"
     },
     {
       "term": "stereo-EEG"
     },
     {
-      "term": "Electroencephalography",
+      "term": "Epilepsy",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    },
-    {
-      "term": "artifact classification"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
       "term": "graphoelements"
     },
     {
-      "term": "epilepsy"
+      "term": "artifact classification"
+    },
+    {
+      "term": "seizure onset zone"
     }
   ],
   "related_identifiers": [
@@ -90,5 +90,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "a39780ab3a874db0e6e8dabc315de3f221461416e616758c10911d7294f09193"
+  "source_hash": "8da92574c7d2ae0e9d6c9464f575a31811513794cff96a5c8820ace1f8a4e339"
 }
