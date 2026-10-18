@@ -22,6 +22,7 @@
   },
   "RecordingDuration": 933.0,
   "RecordingType": "epoched",
+  "EpochLength": 3.0,
   "iEEGReference": "Referential montage; per-contact reference not specified.",
   "iEEGGround": "scalp Fcz",
   "iEEGPlacementScheme": "n/a",
