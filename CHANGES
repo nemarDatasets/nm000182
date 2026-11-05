@@ -1,3 +1,6 @@
+1.0.5 - 2026-11-05
+  - Replaced the citation-style title with the descriptive title documented in README.md.
+
 1.0.3 - 2026-10-14
   - CHANGES: release history completed. The 1.0.1 change replaced this file with a single 1.0.0 line, so the entries
     for 1.0.1 and 1.0.2 below were missing and 1.0.0 was described as the .mat conversion that only 1.0.1 introduced
